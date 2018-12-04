@@ -1,2 +1,2 @@
 # YYKitPostil
-YYKit自己写的注释（原创）。
+在YYKit第三方内部根据自己的理解写的批注。
